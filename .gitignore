@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+/logs
+/backup
+
+package-lock.json 
+/.vscode
